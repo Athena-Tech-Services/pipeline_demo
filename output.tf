@@ -1,3 +1,3 @@
-output "codepipeline_arn" {
-  value = module.codepipeline.codepipeline_arn
-}
+# output "codepipeline_arn" {
+#   value = module.codepipeline.codepipeline_arn
+# }
